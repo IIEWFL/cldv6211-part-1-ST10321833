@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\source\repos\ST10321833\obj\Release\net8.0\PubTmp\Out\ST10321833.exe
+C:\Users\lab_services_student\source\repos\ST10321833\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\lab_services_student\source\repos\ST10321833\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\lab_services_student\source\repos\ST10321833\obj\Release\net8.0\PubTmp\Out\ST10321833.dll
+C:\Users\lab_services_student\source\repos\ST10321833\obj\Release\net8.0\PubTmp\Out\ST10321833.deps.json
+C:\Users\lab_services_student\source\repos\ST10321833\obj\Release\net8.0\PubTmp\Out\ST10321833.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\ST10321833\obj\Release\net8.0\PubTmp\Out\ST10321833.pdb
